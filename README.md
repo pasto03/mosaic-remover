@@ -26,33 +26,40 @@ remover(image_path=image_path)
 </pre>
 
 ## Output
+<style>
+    img {
+        width:150px;
+        height:150px;
+    }
+</style>
+
 <h3>Example 1</h3>
-<div style="display:flex">
-    <div style="padding:20px">
+<div style="display:flex;flex-wrap:wrap">
+    <div style="padding:10px">
     <img src="example outputs/dog8782 -- mosaic.png" alt="mosaic image">
     <p>Mosaic</p>
     </div>
-    <div style="padding:20px">
+    <div style="padding:10px">
     <img src="example outputs/dog8782 -- pred.png" alt="mosaic image">
     <p>Prediction</p>
     </div>
-    <div style="padding:20px">
+    <div style="padding:10px">
     <img src="example outputs/dog8782 -- original.png" alt="mosaic image">
     <p>Ground truth</p>
     </div>
 </div>
 
 <h3>Example 2</h3>
-<div style="display:flex">
-    <div style="padding:20px">
+<div style="display:flex;flex-wrap:wrap">
+    <div style="padding:10px">
     <img src="example outputs/dog942 -- mosaic.png" alt="mosaic image">
     <p>Mosaic</p>
     </div>
-    <div style="padding:20px">
+    <div style="padding:10px">
     <img src="example outputs/dog942 -- pred.png" alt="mosaic image">
     <p>Prediction</p>
     </div>
-    <div style="padding:20px">
+    <div style="padding:10px">
     <img src="example outputs/dog942 -- original.png" alt="mosaic image">
     <p>Ground truth</p>
     </div>
