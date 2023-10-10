@@ -42,7 +42,7 @@ remover(image_path=image_path)
     </div>
 </div>
 
-<p align='center">
+<p align="center">
     <div style="padding:10px">
     <img src="example outputs/dog8782 -- mosaic.png" alt="mosaic image" width=150px height=150px>
     <p>Mosaic</p>
