@@ -26,6 +26,9 @@ remover(image_path=image_path)
 </pre>
 
 ## Output
+<!DOCTYPE html>
+<html>
+<head>
 <style>
     img {
         width:150px;
@@ -33,6 +36,7 @@ remover(image_path=image_path)
     }
 </style>
 
+<body>
 <h3>Example 1</h3>
 <div style="display:flex;flex-wrap:wrap">
     <div style="padding:10px">
@@ -65,5 +69,7 @@ remover(image_path=image_path)
     </div>
 </div>
 
+</body>
+</html>
 ## Conclusion
 Although pix2pix cannot restore the ground truth perfectly, it gives a possibility that image translation models such as pix2pix can be used in mosaic removal. More approachs will be published to this repo in the future.
