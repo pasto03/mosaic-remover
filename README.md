@@ -42,6 +42,21 @@ remover(image_path=image_path)
     </div>
 </div>
 
+<p align='center">
+    <div style="padding:10px">
+    <img src="example outputs/dog8782 -- mosaic.png" alt="mosaic image" width=150px height=150px>
+    <p>Mosaic</p>
+    </div>
+    <div style="padding:10px">
+    <img src="example outputs/dog8782 -- pred.png" alt="mosaic image" width=150px height=150px>
+    <p>Prediction</p>
+    </div>
+    <div style="padding:10px">
+    <img src="example outputs/dog8782 -- original.png" alt="mosaic image" width=150px height=150px>
+    <p>Ground truth</p>
+    </div>
+</p>
+
 <h3>Example 2</h3>
 <div style="display:flex;flex-wrap:wrap">
     <div style="padding:10px">
