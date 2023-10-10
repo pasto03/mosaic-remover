@@ -5,6 +5,8 @@ A simple pix2pix approach of mosaic removal
 ## About model
 A trial of __pix2pix__ image translation on mosaic image. Therefore, the model has no difference with normal pix2pix structure.
 
+Dataset used: <a href="https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset">cats-vs-dogs</a>
+
 ## Example Usage
 Feel free to clone repo to try the pretrained model. Pretrained model saved in _checkpoints_ folder.
 <pre>
